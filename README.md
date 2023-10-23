@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rizky Atmaja</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img src="https://i.pinimg.com/originals/42/a4/80/42a480e831a8d3fce6b159b1c7f60e1f.gif" alt="rizkyatm" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyatm&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyatm" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/42/a4/80/42a480e831a8d3fce6b159b1c7f60e1f.gif" alt="rizkyatm" /> </p>
 
 - 🌱 I’m currently learning **React.js and Vue.js**
 
@@ -19,6 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkyatm&show_icons=true&locale=en&layout=compact" alt="rizkyatm" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyatm&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyatm" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkyatm&show_icons=true&locale=en" alt="rizkyatm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyatm&" alt="rizkyatm" /></p>
