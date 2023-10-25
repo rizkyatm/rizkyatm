@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rizky Atmaja</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/42/a4/80/42a480e831a8d3fce6b159b1c7f60e1f.gif" alt="rizkyatm" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Rizky Atmaja</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **React.js and Vue.js**
 
@@ -23,12 +22,12 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyatm" alt="rizkyatm" />
   <img src="https://github-readme-stats.vercel.app/api?username=rizkyatm&show_icons=true&locale=en" alt="rizkyatm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkyatm&show_icons=true&locale=en&layout=compact" alt="rizkyatm" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkyatm&show_icons=true&locale=en&layout=compact" alt="rizkyatm" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyatm" alt="rizkyatm" />
 </p>
 
 
