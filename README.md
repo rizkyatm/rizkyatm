@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/42/a4/80/42a480e831a8d3fce6b159b1c7f60e1f.gif" alt="rizkyatm" width="100%" />
-</p>
-
-<h1 align="center">👋 It's me!, Rizky Atmaja 👋</h3>
+<h1 align="center">It's me!, Rizky Atmaja</h3>
 <h2 align="center">
-  <b>Frontend Developer</b>👩‍💻
+  <b>Fullstack Developer</b>👩‍💻
 </h2>
 
  🌱 I’m currently learning **React.js and Vue.js**
